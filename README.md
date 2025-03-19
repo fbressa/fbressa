@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Filipe</h1>
 <h3 align="center">A software engineering student</h3>
 
-- 🌱 I’m currently working on **maps scrapper**
+- 🌱 I’m currently working on **AI manipulation tools**
 
 - 📝 I’m currently learning **python for automations**
 
-- ⚡ Main goal **create solutions for**
+- ⚡ Main goal **create solutions**
 
 - 📫 How to reach me **filipebr3sa@gmail.com**
 
