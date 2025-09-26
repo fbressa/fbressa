@@ -2,11 +2,12 @@
 <h3 align="center">Software Engineering Student | AI & Automation Enthusiast</h3>
 
 - 🤖 Currently working on **AI-powered tools** for content generation and process automation  
-- 🔍 Exploring **RAG (Retrieval-Augmented Generation)** and **chatbot integrations** using OpenAI  
+- 🔍 Exploring **RAG (Retrieval-Augmented Generation)** and **AI Agents** using Lang-chain and Agno
 - 🧠 Interested in applying AI to **real-world problems** like education, business workflows and accessibility  
-- 🛠️ Building with **Python**, **Flask**, **Selenium**, **Streamlit** and **OpenAI API**  
-- 🌱 Currently learning more about **AI workflows, API integration, and data automation**  
-- 📫 Reach me at **filipebr3sa@gmail.com**
+- 🛠️ Building with **Python**, **Flask**, **Selenium**, **Streamlit** and **Agents orchestration frameworks**  
+- 🌱 Currently learning more about **AI workflows, API integration, and AI Agents**  
+- 📫 Reach me at **filipe.softeng@gmail.com**
+- Other tech interest: cybersecurity, blockchain, IoT
 
 ---
 
