@@ -7,7 +7,7 @@
 - 🛠️ Building with **Python**, **Flask**, **Selenium**, **Streamlit** and **Agents orchestration frameworks**  
 - 🌱 Currently learning more about **AI workflows, API integration, and AI Agents**  
 - 📫 Reach me at **filipe.softeng@gmail.com**
-- Other tech interest: cybersecurity, blockchain, IoT
+- Other tech interests: cybersecurity, blockchain, IoT
 
 ---
 
