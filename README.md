@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Filipe</h1>
 <h3 align="center">Software Engineering Student | AI & Automation Enthusiast</h3>
 
-- 🤖 Currently working on **AI-powered tools** for content generation and process automation  
-- 🔍 Exploring **RAG (Retrieval-Augmented Generation)** and **AI Agents** using Lang-chain and Agno
-- 🧠 Interested in applying AI to **real-world problems** like education, business workflows and accessibility  
-- 🛠️ Building with **Python**, **Flask**, **Selenium**, **Streamlit** and **Agents orchestration frameworks**  
-- 🌱 Currently learning more about **AI workflows, API integration, and AI Agents**  
+- 🤖 Currently working on **Radio voice** for assisting medical reports with AI  
+- 🔍 Exploring **Data intensive aplications** and **AI workflows**
+- 🧠 Interested in applying AI to **real-world problems** like education, business workflows, accessibility and by now healthcare systems
+- 🛠️ Building with **Python** and **Typescript** 
+- 🌱 Currently learning more about **AI workflows, and healthcare systems**  
 - 📫 Reach me at **filipe.softeng@gmail.com**
-- Other tech interests: cybersecurity, blockchain, IoT
+- Other tech interests: cybersecurity, systems development, IoT, backend
 
 ---
 
