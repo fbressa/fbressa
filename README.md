@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Filipe</h1>
 <h3 align="center">Software Engineering Student | AI & Automation Enthusiast</h3>
 
+- 🚀 Startup driven
 - 🤖 Currently working on **Radio voice** for assisting medical reports with AI  
 - 🔍 Exploring **Data intensive aplications** and **AI workflows**
 - 🧠 Interested in applying AI to **real-world problems** like education, business workflows, accessibility and by now healthcare systems
