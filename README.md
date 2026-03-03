@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Filipe</h1>
-<h3 align="center">Software Engineering Student | AI & Automation Enthusiast</h3>
+<h3 align="center">Software Engineering | Fast paced development </h3>
 
 - 🚀 Startup driven
 - 🤖 Currently working on **Radio voice** for assisting medical reports with AI  
