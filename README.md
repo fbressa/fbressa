@@ -26,7 +26,7 @@ I build backend services and APIs, and systems currently deepening Go while work
 ###  Tech Stack
 * **Languages:** C, C++, Go, Python, TypeScript.
 * **Tools & Env:** Linux, Docker, MySQL, PyTorch, Git.
-* **Current Deep Dive:** Distributed Systems, Database Internals, and Mathematics for Competitive Programming.
+* **Current Deep Dive:** Solana, Database Internals, and Mathematics for Competitive Programming.
 
 ---
 
