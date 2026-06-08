@@ -5,7 +5,7 @@
 ---
 
 ###  Core Engineering Focus
-I build backend services and APIs, and systems currently deepening Go while working on projects that handle real data and real constraints.
+I build stuff, currently deepening rust and solana while working on projects that handle real data and real constraints.
 
 - **Systems Programming:** Developing compilers (Python subset to C) and exploring Linux internals.
 - **Data-Intensive Applications:** Designing workflows for processing and classifying large-scale data (LLM-driven classification).
