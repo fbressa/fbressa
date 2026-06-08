@@ -1,13 +1,12 @@
 # Filipe Bressanelli
 
-**Software Engineering Student -  University of Brasília (UnB)** *Specializing in High-Performance Systems, Systems Programming, and Backend Infrastructure.*
+**Software Engineer -  University of Brasília (UnB)** *C++, RUST, PYTHON, Systems Programming.*
 
 ---
 
 ###  Core Engineering Focus
 I build backend services and APIs, and systems currently deepening Go while working on projects that handle real data and real constraints.
 
-- **Backend & Infra:** Building robust microservices with Go and NestJS, focusing on bank reconciliation and healthcare automation.
 - **Systems Programming:** Developing compilers (Python subset to C) and exploring Linux internals.
 - **Data-Intensive Applications:** Designing workflows for processing and classifying large-scale data (LLM-driven classification).
 
@@ -21,7 +20,7 @@ I build backend services and APIs, and systems currently deepening Go while work
 
 * **[Sensitive Data Classifier](https://github.com/fbressa/hackathon-participaDf):** PII identification for government documents using PyTorch (Participa DF Hackathon).
 
-* **[featflags](https://github.com/fbressa/featflags):** Elixir (in progress) | Feature flag system, exploring BEAM/OTP for distributed state management.
+* **[On-chain Voting](https://github.com/fbressa/SOLvoting):** Rust | Solana on chain voting system. Based on the solana foundation tutorial.
 
 
 ###  Tech Stack
@@ -32,6 +31,5 @@ I build backend services and APIs, and systems currently deepening Go while work
 ---
 
 ### Beyond the Terminal
-I apply the same engineering discipline to sports. As an athlete, I'm driven by endurance, long-term planning, and extreme consistency-traits trying to be better everyday.
-
+I apply the same engineering discipline to sports. BJJ oss.
 📫 **Reach me:** filipebr3sa@gmail.com
