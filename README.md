@@ -1,6 +1,6 @@
 # Filipe Bressanelli
 
-**Software Engineer -  University of Brasília (UnB)** *C++, RUST, PYTHON, Systems Programming.*
+**Software Engineer - University of Brasília (UnB) - IEEE EMBS** *C++, RUST, PYTHON, Systems Programming.*
 
 ---
 
