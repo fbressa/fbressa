@@ -7,11 +7,14 @@
 ###  Core Engineering Focus
 I build stuff, currently deepening rust and solana while working on projects that handle real data and real constraints.
 
+- **Solana and blockchain:** Developing and researching in Solana(rust).
 - **Systems Programming:** Developing compilers (Python subset to C) and exploring Linux internals.
 - **Data-Intensive Applications:** Designing workflows for processing and classifying large-scale data (LLM-driven classification).
 
 
 ###  Featured Projects
+* **[On-chain Voting](https://github.com/fbressa/SOLvoting):** Rust | Solana on chain voting system. Based on the solana foundation tutorial.
+  
 * **[Golang Web server](https://github.com/fbressa/golangwebserver):** Go · stdlib | REST API with concurrent-safe user management via `sync.RWMutex`. Built without AI assistance to force deep understanding of Go's std.
 
 * **[Python-to-C Compiler](https://github.com/fbressa/PyToC):** Built using Flex and Bison. Translates a subset of Python into optimized C code. 
@@ -19,8 +22,6 @@ I build stuff, currently deepening rust and solana while working on projects tha
 * **[ChamaControl](https://github.com/unb-mds/2024-2-ChamaControl):** Node.js · PostgreSQL · Docker | Wildfire monitoring platform for Brazil. Built with a 6-person team at UnB — 372 commits, CI/CD, live in production. 
 
 * **[Sensitive Data Classifier](https://github.com/fbressa/hackathon-participaDf):** PII identification for government documents using PyTorch (Participa DF Hackathon).
-
-* **[On-chain Voting](https://github.com/fbressa/SOLvoting):** Rust | Solana on chain voting system. Based on the solana foundation tutorial.
 
 
 ###  Tech Stack
