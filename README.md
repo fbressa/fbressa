@@ -1,6 +1,6 @@
 # Filipe Bressanelli
 
-**Software Engineering student @ UnB (Brasília, Brazil) · IEEE EMBS member**
+**Software Engineering student @ UnB (Brasília, Brazil) · IEEE EMBS member || Eng Net **
 ---
 
 ### Featured Projects
