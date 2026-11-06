@@ -15,22 +15,22 @@ Repositories (private, client code): [server_identificador_camisas](https://gith
 
 ## Other projects
 
-**[Sensitive Data Classifier](https://github.com/fbressa/hackathon-participaDf)** · Python · PyTorch · BERT
+**[Sensitive Data Classifier](https://github.com/fbressa/hackathon-participaDf)** · Python · PyTorch · BERT  
 Detects personal data in public information requests with rules and a fine-tuned BERT model. Built end to end for the Participa DF Hackathon.
 
-**[Content Agent](https://github.com/fbressa/criador_de_conteudo)** · Python · Agno · Tavily · FastAPI
+**[Content Agent](https://github.com/fbressa/criador_de_conteudo)** · Python · Agno · Tavily · FastAPI  
 Agent that researches the web, reads video transcriptions and drafts scripts, with tool calling and persistent memory.
 
-**[World Cup Prediction Market](https://github.com/fbressa/txodd_hackathon)** · Rust · Anchor · TypeScript
+**[World Cup Prediction Market](https://github.com/fbressa/txodd_hackathon)** · Rust · Anchor · TypeScript  
 Parimutuel market on Solana settled automatically from a live sports data feed, with 12 tests and CI.
 
-**[ChamaControl](https://github.com/unb-mds/2024-2-ChamaControl)** · Node.js · React · MySQL
+**[ChamaControl](https://github.com/unb-mds/2024-2-ChamaControl)** · Node.js · React · MySQL  
 Wildfire monitoring platform built by a 6-person team at UnB, live in production.
 
-**[Python-to-C Compiler](https://github.com/fbressa/PyToC)** · C · Flex · Bison
+**[Python-to-C Compiler](https://github.com/fbressa/PyToC)** · C · Flex · Bison  
 Translates a subset of Python into C.
 
-**[Go Web Server](https://github.com/fbressa/golangwebserver)** · Go
+**[Go Web Server](https://github.com/fbressa/golangwebserver)** · Go  
 REST API with concurrent-safe user management, written with the standard library only.
 
 ## Stack
