@@ -5,11 +5,25 @@ Software Engineering student at the University of Brasília (UnB), working on AI
 ## DORSAL · AI service for a football shirt recommerce platform
 EngNet, for an international client · Python · FastAPI · SigLIP 2 · pgvector · Gemini · Supabase · Google Cloud Run
 
-Identifies a shirt from photos in two steps: SigLIP 2 embeddings searched with pgvector over 1,786 reference photos, then a Gemini step that picks the kit and returns structured fields with per-field confidence. The same pipeline produces a condition assessment used in pricing.
+FastAPI service on Cloud Run, called by a Supabase webhook for each new listing.
 
-- Cold start failures from 13/40 to 0/40, median latency from 29.1 s to 17.2 s, container image from 7.9 GB to 4.8 GB
-- Pagination fix that made 99 hidden kits visible to the service
-- 33 attribute tests and a regression run against the live models before each release
+**Pipeline**
+1. SigLIP 2 (`siglip2-base-patch16-224`) encodes the front photo into a 768-d L2-normalized embedding.
+2. pgvector (HNSW, cosine) returns the top 5 kits among 1,786 reference photos of 345 kits.
+3. Gemini compares all photos (front, back, label, details) with the candidates' metadata and returns structured output with per-field confidence. A field is only pre-filled when it agrees with the catalog (club, supplier, sponsor, players, sizes); conflicts become suggestions.
+4. The same photos feed a condition assessment used by the pricing engine.
+
+**Reliability and performance**
+- Production timeouts from 34 in September to 1 since October; median analysis time from 29 s to about 12 s with a warm instance.
+- Request failures from 13/40 to 0/40 in regression: model loaded offline at startup, container image from 7.9 GB to 4.8 GB, SigLIP and Supabase calls moved off the event loop, Gemini retries with fallback models inside a time budget.
+- Keyset pagination after PostgREST's 1,000-row cap hid 99 of the 345 kits from the service.
+
+**Testing and release**
+- 33 attribute tests with no network calls, plus a regression run against live Gemini and Supabase before each release (15/15 compatible responses).
+- Embedding compatibility check across library upgrades (cosine 1.000000 on 40 photos, no reindex needed).
+- Tagged no-traffic deploys on Cloud Run with a documented rollback revision.
+
+**Next:** a labeled set of real user photos to measure accuracy outside the catalog, and a shorter cold start (currently 75 to 120 s).
 
 Repositories (private, client code): [server_identificador_camisas](https://github.com/dirproj/server_identificador_camisas) · [SigLIP2](https://github.com/dirproj/SigLIP2)
 
