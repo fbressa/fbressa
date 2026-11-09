@@ -9,8 +9,8 @@ Two-step identification (SigLIP 2 retrieval, then Gemini) running in production 
 
 ## Other projects
 
-**[Sensitive Data Classifier](https://github.com/fbressa/hackathon-participaDf)** · Python · PyTorch · BERT  
-Detects personal data in public information requests with rules and a fine-tuned BERT model. Built end to end for the Participa DF Hackathon.
+**[Sensitive Data Classifier](https://github.com/fbressa/hackathon-participaDf)** · Python · PyTorch · BERT · Hugging Face  
+Detects personal data in public information requests with rules and a fine-tuned BERT model. Built end to end for the Participa DF Hackathon. Model on [Hugging Face](https://huggingface.co/fbressa/bert-pii-pedidos-acesso-informacao).
 
 **[Content Agent](https://github.com/fbressa/criador_de_conteudo)** · Python · Agno · Tavily · FastAPI  
 Agent that researches the web, reads video transcriptions and drafts scripts, with tool calling and persistent memory.
@@ -29,7 +29,7 @@ REST API with concurrent-safe user management, written with the standard library
 
 ## Stack
 - **Languages:** Python, TypeScript, C, C++, Go, Rust
-- **AI:** LLM integration, multimodal LLMs, embeddings and vector search, structured outputs, evaluation
+- **AI:** LLM integration, multimodal LLMs, embeddings and vector search, structured outputs, evaluation, fine-tuning (Hugging Face Transformers)
 - **Infra and data:** PostgreSQL, Supabase, pgvector, Docker, Google Cloud Run, Linux, Git
 
 Contact: filipeazevedofilho@gmail.com · [LinkedIn](https://www.linkedin.com/in/filipebressanelli)
